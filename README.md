@@ -18,3 +18,16 @@ The application demonstrates how to build a simple e‑commerce solution in Orac
    ```bash
    git clone https://github.com/nsykat/apex-online-shopping.git
    cd apex-online-shopping
+📸 Demo
+Screenshots of the app are available in docs/screenshots/:
+
+Catalog Page – Browse products by category
+
+Shopping Cart – Add/remove items
+
+Orders Page – Manage customer orders
+
+⚙️ Requirements
+Oracle APEX 20.2+
+
+Oracle XE 19c
